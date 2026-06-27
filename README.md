@@ -48,3 +48,8 @@ Runs on `http://localhost:8000`
 
 ### Environment Setup
 Create `backend/.env`:
+
+
+
+## 👩‍💻 Developed By
+**[Hafsa Arif]** — Semester AI Project
