@@ -1,0 +1,30 @@
+# Dependencies (too large to upload)
+node_modules/
+backend/venv/
+
+# Environment variables (KEEP PRIVATE!)
+backend/.env
+.env
+
+# Build files
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
